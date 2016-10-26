@@ -161,8 +161,6 @@ Game::Game(int boardSize) : size(boardSize)
 		}
 	}
 
-	cout << myBoard[2][2].getType();
-
 	//addPlayerBoats();
 	//addAIBoats();
 	//addBoatsToField();
